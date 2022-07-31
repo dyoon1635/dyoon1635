@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **dyoon1635/dyoon1635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
