@@ -1,6 +1,6 @@
 ### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyoon1635&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyoon1635&layout=compact)](https://github.com/dyoon1635/github-readme-stats)
 
 <!--
 **dyoon1635/dyoon1635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
